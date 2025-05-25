@@ -19,7 +19,7 @@ We are the first to enable W4A4 PTQ for Video DiTs without compromising video qu
 <li> Performance comparison of various methods on VBench (Table 1 from the main paper). 
  
 <p align="center">
-<img src="assets/figs/table_1.png" >
+<img src="assets/fig/table_1.png" >
 </p>
 </li>
 </details>
