@@ -8,7 +8,7 @@
 
 ![](assets/fig/overview.png)
 
-![](assets/fig/visual_1.png)
+![](assets/fig/fig1.png)
 
 # <a name="results"></a>🔎 Results
 
@@ -22,4 +22,25 @@ We are the first to enable W4A4 PTQ for Video DiTs without compromising video qu
 <img src="assets/fig/table_1.png" >
 </p>
 </li>
+</details>
+
+<details open>
+<summary>&ensp;More Comparisons across Different Methods (click to expand) </summary>
+<p align="center">
+<img src="assets/fig/visual_1.png" >
+</p>
+ 
+---
+ 
+<p align="center">
+<img src="assets/fig/visual_2.png" >
+</p>
+
+---
+
+<p align="center">
+<img src="assets/fig/visual_3.png" >
+</p>
+
+
 </details>
