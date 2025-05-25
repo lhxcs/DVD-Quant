@@ -25,7 +25,7 @@ We are the first to enable W4A4 PTQ for Video DiTs without compromising video qu
 </details>
 
 <details open>
-<summary>&ensp;More Comparisons across Different Methods (click to expand) </summary>
+<summary>&ensp;More Comparisons across Different Methods (click to expand), * indicates 6 for DVD-Quant (W4A6) and 8 for other methods(W4A8) </summary>
 <p align="center">
 <img src="assets/fig/visual_1.png" >
 </p>
