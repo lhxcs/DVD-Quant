@@ -44,3 +44,16 @@ We are the first to enable W4A4 PTQ for Video DiTs without compromising video qu
 
 
 </details>
+
+## Citation
+
+If you find the code helpful in your research or work, please cite the following paper.
+
+```
+@article{li2025dvd,
+  title={DVD-Quant: Data-free Video Diffusion Transformers Quantization},
+  author={Li, Zhiteng and Li, Hanxuan and Wu, Junyi and Liu, Kai and Kong, Linghe and Chen, Guihai and Zhang, Yulun and Yang, Xiaokang},
+  journal={arXiv preprint arXiv:2505.18663},
+  year={2025}
+}
+```
