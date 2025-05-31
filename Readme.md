@@ -1,6 +1,6 @@
 # DVD-Quant: Data-free Video Diffusion Transformers Quantization
 
-[Zhiteng Li*](https://zhitengli.github.io), Hanxuan Li*, Junyi Wu, [Kai Liu](https://kai-liu001.github.io/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), [Guihai Chen](https://cs.nju.edu.cn/gchen/index.htm), [Yulun Zhang](http://yulunzhang.com/) and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ)
+[Zhiteng Li*](https://zhitengli.github.io), [Hanxuan Li*](https://lhxcs.github.io/), Junyi Wu, [Kai Liu](https://kai-liu001.github.io/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), [Guihai Chen](https://cs.nju.edu.cn/gchen/index.htm), [Yulun Zhang](http://yulunzhang.com/) and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ)
 
 ---
 
